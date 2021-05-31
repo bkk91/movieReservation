@@ -32,7 +32,7 @@
 <summary> <b> 2. 분석 (Analysis) </b> </summary>
 <div markdown="1">
 
- <img src="./img/analysis1.png"  width="500">
+ <img src="./img/analysis1.png"  width="250">
 
 - MVC 모델을 활용하여 각기 필요한 객체를 구분하여 제어하고 구현한다.
 
@@ -42,7 +42,7 @@
 
 ※ 아래에서 추가적인 설명
 
-<img src="./img/analysis2.png"  width="500">
+<img src="./img/analysis2.png"  width="250">
 
 - View 구조에서 각 객체와 메소드들의 집합군을 어떠한 교집합을 통하여 나타내야 하는지에 대한 개념정리를 위하여 집합론의 전순서집합을 사용하였고, 다음과 같다.
 
