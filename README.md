@@ -112,7 +112,7 @@ Model DTO에 명령을 보냄으로써 CRUD 기능 구현.
 <div markdown="1">
  
 
-<img src="./img/view1.png"  width="500"> 
+<img src="./img/view1.png"  width="250"> 
 
  </div>
 </details>
